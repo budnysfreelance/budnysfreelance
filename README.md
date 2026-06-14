@@ -23,10 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/budnysfreelance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="budnysfreelance" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Szymon Budny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Szymon Budny" height="30" width="40" /></a>
-<a href="https://fb.com/Szymon Budny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Szymon Budny" height="30" width="40" /></a>
-<a href="https://instagram.com/budnys.dsgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="budnys.dsgn" height="30" width="40" /></a>
-<a href="https://discord.gg/sinkarre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sinkarre" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/szymon-budny-8699b439a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Szymon Budny" height="30" width="40" /></a>
+<a href="https://www.facebook.com/szymon.budny.39/?locale=pl_PL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Szymon Budny" height="30" width="40" /></a>
+<a href="https://www.instagram.com/budnys.dsgn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="budnys.dsgn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
